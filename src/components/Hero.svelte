@@ -3,7 +3,7 @@
         <h1>Grow your knowledge and collect the right insights</h1>
         <h3>With over 1200 courses in 18 subjects, you're guaranteed to find something that's right for you.
         </h3>
-        <a href="/courses">Get Started</a>
+        <a href="/courses/ex-how-to-install-your-tracking-code">Get Started</a>
     </div>
     <div class="img">
         <img src="https://learning.hotjar.com/wp-content/uploads/2021/07/Manage-growing-pm-team.png" alt="">
