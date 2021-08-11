@@ -1,0 +1,1 @@
+<h1>ALL COURSES</h1>
