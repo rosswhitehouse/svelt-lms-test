@@ -82,9 +82,6 @@
           text-align: center;
 
       }
-      .links {
-          display: flex;
-      }
       h2 {
           color: white;
           font-size: 14px;
